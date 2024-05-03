@@ -1,15 +1,15 @@
 [{
-	"title": “Cipherem Toronto”,
-	"url": "https://testnet.cipherem.com/“,
-	"group": “Testnets,
+	"title": "Cipherem Toronto",
+	"url": "https://testnet.cipherem.com/",
+	"group": "Testnets",
 	"icon": "https://raw.githubusercontent.com/Cipherem/cipherscan/master/apps/block_scout_web/assets/static/images/icons/CipheremIcon.svg",
 	"isActive": true
 },
 {
-	"title": “Cipherem Mainnet”,
+	"title": "Cipherem Mainnet",
 	"url": "https://optimism-sepolia.blockscout.com/",
-	"group": “Mainnets”,
-	"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	"group": "Mainnets",
+	"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
 	"isActive": false
 }
 ]
