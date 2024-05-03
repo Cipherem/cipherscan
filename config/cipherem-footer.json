@@ -1,0 +1,42 @@
+[{
+    "title": "Cipherem",
+    "links": [{
+            "text": "Home",
+            "url": "https://www.cipherem.com/"
+        },
+        {
+            "text": "Whitepaper",
+            "url": "https://github.com/Cipherem/whitepaper"
+        }
+    ]
+},
+{
+    "title": "Community",
+    "links": [{
+            "text": "Telegram",
+            "url": "https://t.me/zkcipherem"
+        },
+        {
+            "text": "Twitter",
+            "url": "https://twitter.com/cipherem"
+        },
+        {
+            "text": "Blog",
+            "url": "https://medium.com/@cipherem"
+        },
+        {
+            "text": "Linkedin",
+            "url": "https://www.linkedin.com/company/cipherem/"
+        }
+    ]
+},
+{
+"title": "Developer",
+"links": [
+    {
+        "text": "GitHub",
+        "url": "https://github.com/Cipherem"
+    }
+]
+}
+]
