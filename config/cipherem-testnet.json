@@ -2,7 +2,7 @@
 	"title": "Cipherem Toronto",
 	"url": "https://testnet.cipherem.com/",
 	"group": "Testnets",
-	"icon": "https://raw.githubusercontent.com/Cipherem/cipherscan/master/apps/block_scout_web/assets/static/images/icons/CipheremIcon.svg",
+	"icon": "https://raw.githubusercontent.com/Cipherem/cipherscan/master/apps/block_scout_web/assets/static/images/network-selector-icons/Cipherem%20Toronto.svg",
 	"isActive": true
 }
 ]
